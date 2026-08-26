@@ -1,0 +1,3 @@
+namespace,namespace_name,go_id,go_name,study_count,study_total,background_count,background_total,study_fraction,background_fraction,enrichment_ratio,odds_ratio,p_value,study_locus_tags,study_VFG_IDs,fdr_bh,significant_fdr,minus_log10_fdr
+CC,Cellular Component,GO:0005576,extracellular region,3,30,6,158,0.1,0.0379746835443038,2.6333333333333333,4.62962962962963,0.08291759614379883,PA0044;PA0262;PA1954,VFG015168;VFG050297;VFG051596,0.16336258197358394,False,0.7868474111042608
+CC,Cellular Component,GO:0009279,cell outer membrane,2,30,4,158,0.06666666666666667,0.02531645569620253,2.6333333333333333,4.5,0.16336258197358394,PA3543;PA5112,VFG014783;VFG042297,0.16336258197358394,False,0.7868474111042608

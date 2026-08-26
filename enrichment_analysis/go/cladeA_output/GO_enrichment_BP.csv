@@ -1,0 +1,2 @@
+namespace,namespace_name,go_id,go_name,study_count,study_total,background_count,background_total,study_fraction,background_fraction,enrichment_ratio,odds_ratio,p_value,study_locus_tags,study_VFG_IDs,fdr_bh,significant_fdr,minus_log10_fdr
+BP,Biological Process,GO:0042121,alginic acid biosynthetic process,3,30,10,158,0.1,0.06329113924050633,1.58,1.9206349206349207,0.28890728922169123,PA3543;PA5322;PA5483,VFG000116;VFG014783;VFG014893,0.28890728922169123,False,0.5392415006313236

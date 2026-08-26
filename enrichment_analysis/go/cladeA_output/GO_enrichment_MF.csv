@@ -1,0 +1,2 @@
+namespace,namespace_name,go_id,go_name,study_count,study_total,background_count,background_total,study_fraction,background_fraction,enrichment_ratio,odds_ratio,p_value,study_locus_tags,study_VFG_IDs,fdr_bh,significant_fdr,minus_log10_fdr
+MF,Molecular Function,GO:0005524,ATP binding,2,30,11,158,0.06666666666666667,0.06962025316455696,0.9575757575757576,0.9444444444444444,0.6562936925119163,PA0396;PA5483,VFG000116;VFG001224,0.6562936925119163,False,0.18290176962763088
