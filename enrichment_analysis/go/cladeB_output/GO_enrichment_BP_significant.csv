@@ -1,0 +1,4 @@
+namespace,namespace_name,go_id,go_name,study_count,study_total,background_count,background_total,study_fraction,background_fraction,enrichment_ratio,odds_ratio,p_value,study_locus_tags,study_VFG_IDs,fdr_bh,significant_fdr,minus_log10_fdr
+BP,Biological Process,GO:0017000,antibiotic biosynthetic process,2,30,2,158,0.06666666666666667,0.012658227848101266,5.266666666666667,inf,0.03507215996129968,PA2385;PA4226,VFG015950;VFG020090,0.04676287994839957,True,1.330098750136738
+BP,Biological Process,GO:0044550,secondary metabolite biosynthetic process,2,30,2,158,0.06666666666666667,0.012658227848101266,5.266666666666667,inf,0.03507215996129968,PA4225;PA4226,VFG016117;VFG020090,0.04676287994839957,True,1.330098750136738
+BP,Biological Process,GO:0072330,monocarboxylic acid biosynthetic process,2,30,2,158,0.06666666666666667,0.012658227848101266,5.266666666666667,inf,0.03507215996129968,PA4225;PA4226,VFG016117;VFG020090,0.04676287994839957,True,1.330098750136738
