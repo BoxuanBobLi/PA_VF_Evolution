@@ -1,0 +1,154 @@
+VFG_ID,VF_category,VFC_ID,VF_name,VF_ID
+VFG015856,Exotoxin,VFC0235,Phospholipase C,VF0914
+VFG015168,Effector delivery system,VFC0086,TTSS secreted effectors,VF0853
+VFG015552,Nutritional/Metabolic factor,VFC0272,Pyocyanin,VF0100
+VFG002057,Effector delivery system,VFC0086,HSI-1,VF0334
+VFG002058,Effector delivery system,VFC0086,HSI-1,VF0334
+VFG015387,Effector delivery system,VFC0086,HSI-1,VF0334
+VFG015404,Effector delivery system,VFC0086,HSI-1,VF0334
+VFG002064,Effector delivery system,VFC0086,HSI-1,VF0334
+VFG002065,Effector delivery system,VFC0086,HSI-1,VF0334
+VFG002067,Effector delivery system,VFC0086,HSI-1,VF0334
+VFG020003,Effector delivery system,VFC0086,HSI-1,VF0334
+VFG002070,Effector delivery system,VFC0086,HSI-1,VF0334
+VFG015473,Effector delivery system,VFC0086,HSI-1,VF0334
+VFG002075,Effector delivery system,VFC0086,HSI-1,VF0334
+VFG015491,Effector delivery system,VFC0086,HSI-1,VF0334
+VFG002077,Effector delivery system,VFC0086,HSI-1,VF0334
+VFG051485,Effector delivery system,VFC0086,HSI-1 T6SS secreted effectors,VF1194
+VFG041011,Effector delivery system,VFC0086,HSI-1,VF0334
+VFG051596,Effector delivery system,VFC0086,HSI-2 T6SS secreted effectors,VF0915
+VFG001223,Adherence,VFC0001,Type IV pili,VF0082
+VFG001224,Adherence,VFC0001,Type IV pili,VF0082
+VFG014043,Adherence,VFC0001,Type IV pili,VF0082
+VFG014062,Adherence,VFC0001,Type IV pili,VF0082
+VFG019773,Adherence,VFC0001,Type IV pili,VF0082
+VFG040875,Effector delivery system,VFC0086,Hxc,VF0945
+VFG040877,Effector delivery system,VFC0086,Hxc,VF0945
+VFG040878,Effector delivery system,VFC0086,Hxc,VF0945
+VFG040879,Effector delivery system,VFC0086,Hxc,VF0945
+VFG014950,Biofilm,VFC0271,Alginate,VF0091
+VFG000157,Exotoxin,VFC0235,PLC,VF0092
+VFG015067,Regulation,VFC0301,GacS/GacA two-component system,VF0908
+VFG042706,Biofilm,VFC0271,CupC fimbriae,VF0926
+VFG001238,Motility,VFC0204,Flagella,VF0273
+VFG001242,Motility,VFC0204,Flagella,VF0273
+VFG014254,Motility,VFC0204,Flagella,VF0273
+VFG014369,Motility,VFC0204,Flagella,VF0273
+VFG001249,Motility,VFC0204,Flagella,VF0273
+VFG001251,Motility,VFC0204,Flagella,VF0273
+VFG001252,Motility,VFC0204,Flagella,VF0273
+VFG001254,Motility,VFC0204,Flagella,VF0273
+VFG000115,Exotoxin,VFC0235,ExoA,VF0086
+VFG000144,Enzyme,VFC0251,Alkaline protease,VF0090
+VFG014473,Motility,VFC0204,Flagella,VF0273
+VFG001262,Motility,VFC0204,Flagella,VF0273
+VFG001263,Motility,VFC0204,Flagella,VF0273
+VFG001264,Motility,VFC0204,Flagella,VF0273
+VFG043014,Motility,VFC0204,Flagella,VF0273
+VFG043015,Motility,VFC0204,Flagella,VF0273
+VFG051491,Effector delivery system,VFC0086,HSI-2,VF0943
+VFG041014,Effector delivery system,VFC0086,HSI-2,VF0943
+VFG041016,Effector delivery system,VFC0086,HSI-2,VF0943
+VFG051535,Effector delivery system,VFC0086,HSI-2,VF0943
+VFG051543,Effector delivery system,VFC0086,HSI-2,VF0943
+VFG051551,Effector delivery system,VFC0086,HSI-2,VF0943
+VFG041021,Effector delivery system,VFC0086,HSI-2,VF0943
+VFG041023,Effector delivery system,VFC0086,HSI-2,VF0943
+VFG041025,Effector delivery system,VFC0086,HSI-2,VF0943
+VFG041027,Effector delivery system,VFC0086,HSI-2,VF0943
+VFG019951,Effector delivery system,VFC0086,TTSS,VF0083
+VFG000198,Effector delivery system,VFC0086,TTSS,VF0083
+VFG000203,Effector delivery system,VFC0086,TTSS,VF0083
+VFG000211,Effector delivery system,VFC0086,TTSS,VF0083
+VFG000212,Effector delivery system,VFC0086,TTSS,VF0083
+VFG042735,Adherence,VFC0001,Type IV pili,VF0082
+VFG000145,Effector delivery system,VFC0086,LasA,VF0088
+VFG050300,Adherence,VFC0001,Fap,VF1191
+VFG050297,Adherence,VFC0001,Fap,VF1191
+VFG042695,Biofilm,VFC0271,CupA fimbriae,VF0924
+VFG042696,Biofilm,VFC0271,CupA fimbriae,VF0924
+VFG015920,Antimicrobial activity/Competitive advantage,VFC0325,Hydrogen cyanide production,VF0920
+VFG015926,Antimicrobial activity/Competitive advantage,VFC0325,Hydrogen cyanide production,VF0920
+VFG044081,Nutritional/Metabolic factor,VFC0272,Pyoverdine,VF0094
+VFG041031,Effector delivery system,VFC0086,HSI-3,VF0944
+VFG051601,Effector delivery system,VFC0086,HSI-3,VF0944
+VFG051607,Effector delivery system,VFC0086,HSI-3,VF0944
+VFG041035,Effector delivery system,VFC0086,HSI-3,VF0944
+VFG041038,Effector delivery system,VFC0086,HSI-3,VF0944
+VFG041041,Effector delivery system,VFC0086,HSI-3,VF0944
+VFG041042,Effector delivery system,VFC0086,HSI-3,VF0944
+VFG041043,Effector delivery system,VFC0086,HSI-3,VF0944
+VFG015950,Nutritional/Metabolic factor,VFC0272,Pyoverdine,VF0094
+VFG016060,Nutritional/Metabolic factor,VFC0272,Pyoverdine,VF0094
+VFG051484,Effector delivery system,VFC0086,HSI-1 T6SS secreted effectors,VF1194
+VFG043480,Adherence,VFC0001,PA2760,VF0929
+VFG000175,Effector delivery system,VFC0086,Xcp secretion system,VF0084
+VFG000176,Effector delivery system,VFC0086,Xcp secretion system,VF0084
+VFG000181,Effector delivery system,VFC0086,Xcp secretion system,VF0084
+VFG000182,Effector delivery system,VFC0086,Xcp secretion system,VF0084
+VFG001230,Adherence,VFC0001,Type IV pili,VF0082
+VFG019790,Immune modulation,VFC0258,LPS,VF0085
+VFG015852,Exotoxin,VFC0235,Non-hemolytic phospholipase C,VF0913
+VFG044089,Nutritional/Metabolic factor,VFC0272,HasA-type hemophore-mediated heme uptake system,VF0939
+VFG044090,Nutritional/Metabolic factor,VFC0272,HasA-type hemophore-mediated heme uptake system,VF0939
+VFG044091,Nutritional/Metabolic factor,VFC0272,HasA-type hemophore-mediated heme uptake system,VF0939
+VFG044093,Nutritional/Metabolic factor,VFC0272,HasA-type hemophore-mediated heme uptake system,VF0939
+VFG000155,Immune modulation,VFC0258,Rhamnolipid,VF0089
+VFG041047,Effector delivery system,VFC0086,HSI-1 T6SS secreted effectors,VF1194
+VFG000122,Biofilm,VFC0271,Alginate,VF0091
+VFG000123,Biofilm,VFC0271,Alginate,VF0091
+VFG000124,Biofilm,VFC0271,Alginate,VF0091
+VFG014783,Biofilm,VFC0271,Alginate,VF0091
+VFG000126,Biofilm,VFC0271,Alginate,VF0091
+VFG000127,Biofilm,VFC0271,Alginate,VF0091
+VFG000128,Biofilm,VFC0271,Alginate,VF0091
+VFG000129,Biofilm,VFC0271,Alginate,VF0091
+VFG014844,Biofilm,VFC0271,Alginate,VF0091
+VFG000131,Biofilm,VFC0271,Alginate,VF0091
+VFG000133,Biofilm,VFC0271,Alginate,VF0091
+VFG043648,Adherence,VFC0001,Type IV pili,VF0082
+VFG015000,Biofilm,VFC0271,Alginate,VF0091
+VFG000146,Effector delivery system,VFC0086,LasB,VF0087
+VFG042698,Biofilm,VFC0271,CupB fimbriae,VF0925
+VFG042699,Biofilm,VFC0271,CupB fimbriae,VF0925
+VFG042701,Biofilm,VFC0271,CupB fimbriae,VF0925
+VFG015846,Enzyme,VFC0251,Protease IV,VF0912
+VFG015515,Nutritional/Metabolic factor,VFC0272,Pyocyanin,VF0100
+VFG000173,Nutritional/Metabolic factor,VFC0272,Pyocyanin,VF0100
+VFG044096,Nutritional/Metabolic factor,VFC0272,Pyochelin,VF0095
+VFG044097,Nutritional/Metabolic factor,VFC0272,Pyochelin,VF0095
+VFG000164,Nutritional/Metabolic factor,VFC0272,Pyochelin,VF0095
+VFG001266,Nutritional/Metabolic factor,VFC0272,Pyochelin,VF0095
+VFG001267,Nutritional/Metabolic factor,VFC0272,Pyochelin,VF0095
+VFG001268,Nutritional/Metabolic factor,VFC0272,Pyochelin,VF0095
+VFG016117,Nutritional/Metabolic factor,VFC0272,Pyochelin,VF0095
+VFG020090,Nutritional/Metabolic factor,VFC0272,Pyochelin,VF0095
+VFG020092,Nutritional/Metabolic factor,VFC0272,Pyochelin,VF0095
+VFG000171,Nutritional/Metabolic factor,VFC0272,Pyochelin,VF0095
+VFG042740,Adherence,VFC0001,Type IV pili,VF0928
+VFG042744,Adherence,VFC0001,Type IV pili,VF0928
+VFG042749,Adherence,VFC0001,Type IV pili,VF0928
+VFG042750,Adherence,VFC0001,Type IV pili,VF0928
+VFG042751,Adherence,VFC0001,Type IV pili,VF0928
+VFG014986,Biofilm,VFC0271,Alginate,VF0091
+VFG042736,Adherence,VFC0001,Type IV pili,VF0082
+VFG043810,Enzyme,VFC0251,LepA,VF0946
+VFG001213,Adherence,VFC0001,Type IV pili,VF0082
+VFG001214,Adherence,VFC0001,Type IV pili,VF0082
+VFG044448,Biofilm,VFC0271,CupE fimbriae,VF0934
+VFG044101,Nutritional/Metabolic factor,VFC0272,Direct heme uptake system,VF0941
+VFG044103,Nutritional/Metabolic factor,VFC0272,Direct heme uptake system,VF0941
+VFG044104,Nutritional/Metabolic factor,VFC0272,Direct heme uptake system,VF0941
+VFG014681,Motility,VFC0204,Flagella,VF0273
+VFG042738,Adherence,VFC0001,Type IV pili,VF0082
+VFG000141,Immune modulation,VFC0258,LPS,VF0085
+VFG000139,Immune modulation,VFC0258,LPS,VF0085
+VFG000142,Immune modulation,VFC0258,LPS,VF0085
+VFG000143,Immune modulation,VFC0258,LPS,VF0085
+VFG001222,Adherence,VFC0001,Type IV pili,VF0082
+VFG051661,Effector delivery system,VFC0086,HSI-3 T6SS secreted effectors,VF1350
+VFG042297,Effector delivery system,VFC0086,EstA,VF0942
+VFG000120,Biofilm,VFC0271,Alginate,VF0091
+VFG014893,Biofilm,VFC0271,Alginate,VF0091
+VFG000116,Biofilm,VFC0271,Alginate,VF0091
