@@ -1,0 +1,138 @@
+pathway_id	pathway_name
+pae01100	Metabolic pathways - Pseudomonas aeruginosa PAO1
+pae01110	Biosynthesis of secondary metabolites - Pseudomonas aeruginosa PAO1
+pae01120	Microbial metabolism in diverse environments - Pseudomonas aeruginosa PAO1
+pae01200	Carbon metabolism - Pseudomonas aeruginosa PAO1
+pae01210	2-Oxocarboxylic acid metabolism - Pseudomonas aeruginosa PAO1
+pae01212	Fatty acid metabolism - Pseudomonas aeruginosa PAO1
+pae01230	Biosynthesis of amino acids - Pseudomonas aeruginosa PAO1
+pae01232	Nucleotide metabolism - Pseudomonas aeruginosa PAO1
+pae01250	Biosynthesis of nucleotide sugars - Pseudomonas aeruginosa PAO1
+pae01240	Biosynthesis of cofactors - Pseudomonas aeruginosa PAO1
+pae01220	Degradation of aromatic compounds - Pseudomonas aeruginosa PAO1
+pae01310	Nitrogen cycle - Pseudomonas aeruginosa PAO1
+pae01320	Sulfur cycle - Pseudomonas aeruginosa PAO1
+pae00010	Glycolysis / Gluconeogenesis - Pseudomonas aeruginosa PAO1
+pae00020	Citrate cycle (TCA cycle) - Pseudomonas aeruginosa PAO1
+pae00030	Pentose phosphate pathway - Pseudomonas aeruginosa PAO1
+pae00040	Pentose and glucuronate interconversions - Pseudomonas aeruginosa PAO1
+pae00051	Fructose and mannose metabolism - Pseudomonas aeruginosa PAO1
+pae00052	Galactose metabolism - Pseudomonas aeruginosa PAO1
+pae00053	Ascorbate and aldarate metabolism - Pseudomonas aeruginosa PAO1
+pae00500	Starch and sucrose metabolism - Pseudomonas aeruginosa PAO1
+pae00620	Pyruvate metabolism - Pseudomonas aeruginosa PAO1
+pae00630	Glyoxylate and dicarboxylate metabolism - Pseudomonas aeruginosa PAO1
+pae00640	Propanoate metabolism - Pseudomonas aeruginosa PAO1
+pae00650	Butanoate metabolism - Pseudomonas aeruginosa PAO1
+pae00660	C5-Branched dibasic acid metabolism - Pseudomonas aeruginosa PAO1
+pae00562	Inositol phosphate metabolism - Pseudomonas aeruginosa PAO1
+pae00190	Oxidative phosphorylation - Pseudomonas aeruginosa PAO1
+pae00710	Carbon fixation by Calvin cycle - Pseudomonas aeruginosa PAO1
+pae00720	Other carbon fixation pathways - Pseudomonas aeruginosa PAO1
+pae00680	Methane metabolism - Pseudomonas aeruginosa PAO1
+pae00910	Nitrogen metabolism - Pseudomonas aeruginosa PAO1
+pae00920	Sulfur metabolism - Pseudomonas aeruginosa PAO1
+pae00061	Fatty acid biosynthesis - Pseudomonas aeruginosa PAO1
+pae00071	Fatty acid degradation - Pseudomonas aeruginosa PAO1
+pae00074	Mycolic acid biosynthesis - Pseudomonas aeruginosa PAO1
+pae00561	Glycerolipid metabolism - Pseudomonas aeruginosa PAO1
+pae00564	Glycerophospholipid metabolism - Pseudomonas aeruginosa PAO1
+pae00565	Ether lipid metabolism - Pseudomonas aeruginosa PAO1
+pae00600	Sphingolipid metabolism - Pseudomonas aeruginosa PAO1
+pae00592	alpha-Linolenic acid metabolism - Pseudomonas aeruginosa PAO1
+pae01040	Biosynthesis of unsaturated fatty acids - Pseudomonas aeruginosa PAO1
+pae00230	Purine metabolism - Pseudomonas aeruginosa PAO1
+pae00240	Pyrimidine metabolism - Pseudomonas aeruginosa PAO1
+pae00250	Alanine, aspartate and glutamate metabolism - Pseudomonas aeruginosa PAO1
+pae00260	Glycine, serine and threonine metabolism - Pseudomonas aeruginosa PAO1
+pae00270	Cysteine and methionine metabolism - Pseudomonas aeruginosa PAO1
+pae00280	Valine, leucine and isoleucine degradation - Pseudomonas aeruginosa PAO1
+pae00290	Valine, leucine and isoleucine biosynthesis - Pseudomonas aeruginosa PAO1
+pae00300	Lysine biosynthesis - Pseudomonas aeruginosa PAO1
+pae00310	Lysine degradation - Pseudomonas aeruginosa PAO1
+pae00220	Arginine biosynthesis - Pseudomonas aeruginosa PAO1
+pae00330	Arginine and proline metabolism - Pseudomonas aeruginosa PAO1
+pae00340	Histidine metabolism - Pseudomonas aeruginosa PAO1
+pae00350	Tyrosine metabolism - Pseudomonas aeruginosa PAO1
+pae00360	Phenylalanine metabolism - Pseudomonas aeruginosa PAO1
+pae00380	Tryptophan metabolism - Pseudomonas aeruginosa PAO1
+pae00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Pseudomonas aeruginosa PAO1
+pae00410	beta-Alanine metabolism - Pseudomonas aeruginosa PAO1
+pae00430	Taurine and hypotaurine metabolism - Pseudomonas aeruginosa PAO1
+pae00440	Phosphonate and phosphinate metabolism - Pseudomonas aeruginosa PAO1
+pae00450	Selenocompound metabolism - Pseudomonas aeruginosa PAO1
+pae00460	Cyanoamino acid metabolism - Pseudomonas aeruginosa PAO1
+pae00470	D-Amino acid metabolism - Pseudomonas aeruginosa PAO1
+pae00480	Glutathione metabolism - Pseudomonas aeruginosa PAO1
+pae00520	Amino sugar and nucleotide sugar metabolism - Pseudomonas aeruginosa PAO1
+pae00541	Biosynthesis of various nucleotide sugars - Pseudomonas aeruginosa PAO1
+pae00540	Lipopolysaccharide biosynthesis - Pseudomonas aeruginosa PAO1
+pae00550	Peptidoglycan biosynthesis - Pseudomonas aeruginosa PAO1
+pae00552	Teichoic acid biosynthesis - Pseudomonas aeruginosa PAO1
+pae00543	Exopolysaccharide biosynthesis - Pseudomonas aeruginosa PAO1
+pae00730	Thiamine metabolism - Pseudomonas aeruginosa PAO1
+pae00740	Riboflavin metabolism - Pseudomonas aeruginosa PAO1
+pae00750	Vitamin B6 metabolism - Pseudomonas aeruginosa PAO1
+pae00760	Nicotinate and nicotinamide metabolism - Pseudomonas aeruginosa PAO1
+pae00770	Pantothenate and CoA biosynthesis - Pseudomonas aeruginosa PAO1
+pae00780	Biotin metabolism - Pseudomonas aeruginosa PAO1
+pae00785	Lipoic acid metabolism - Pseudomonas aeruginosa PAO1
+pae00790	Folate biosynthesis - Pseudomonas aeruginosa PAO1
+pae00670	One carbon pool by folate - Pseudomonas aeruginosa PAO1
+pae00860	Porphyrin metabolism - Pseudomonas aeruginosa PAO1
+pae00130	Ubiquinone and other terpenoid-quinone biosynthesis - Pseudomonas aeruginosa PAO1
+pae00900	Terpenoid backbone biosynthesis - Pseudomonas aeruginosa PAO1
+pae00907	Pinene, camphor and geraniol degradation - Pseudomonas aeruginosa PAO1
+pae00523	Polyketide sugar unit biosynthesis - Pseudomonas aeruginosa PAO1
+pae01053	Biosynthesis of siderophore group nonribosomal peptides - Pseudomonas aeruginosa PAO1
+pae00946	Degradation of flavonoids - Pseudomonas aeruginosa PAO1
+pae00332	Carbapenem biosynthesis - Pseudomonas aeruginosa PAO1
+pae00261	Monobactam biosynthesis - Pseudomonas aeruginosa PAO1
+pae00521	Streptomycin biosynthesis - Pseudomonas aeruginosa PAO1
+pae00525	Acarbose and validamycin biosynthesis - Pseudomonas aeruginosa PAO1
+pae00401	Novobiocin biosynthesis - Pseudomonas aeruginosa PAO1
+pae00405	Phenazine biosynthesis - Pseudomonas aeruginosa PAO1
+pae00999	Biosynthesis of various plant secondary metabolites - Pseudomonas aeruginosa PAO1
+pae00997	Biosynthesis of various other secondary metabolites - Pseudomonas aeruginosa PAO1
+pae00362	Benzoate degradation - Pseudomonas aeruginosa PAO1
+pae00627	Aminobenzoate degradation - Pseudomonas aeruginosa PAO1
+pae00364	Fluorobenzoate degradation - Pseudomonas aeruginosa PAO1
+pae00625	Chloroalkane and chloroalkene degradation - Pseudomonas aeruginosa PAO1
+pae00361	Chlorocyclohexane and chlorobenzene degradation - Pseudomonas aeruginosa PAO1
+pae00623	Toluene degradation - Pseudomonas aeruginosa PAO1
+pae00622	Xylene degradation - Pseudomonas aeruginosa PAO1
+pae00633	Nitrotoluene degradation - Pseudomonas aeruginosa PAO1
+pae00643	Styrene degradation - Pseudomonas aeruginosa PAO1
+pae00930	Caprolactam degradation - Pseudomonas aeruginosa PAO1
+pae00626	Naphthalene degradation - Pseudomonas aeruginosa PAO1
+pae00984	Steroid degradation - Pseudomonas aeruginosa PAO1
+pae03020	RNA polymerase - Pseudomonas aeruginosa PAO1
+pae03010	Ribosome - Pseudomonas aeruginosa PAO1
+pae00970	Aminoacyl-tRNA biosynthesis - Pseudomonas aeruginosa PAO1
+pae03008	Ribosome biogenesis in eukaryotes - Pseudomonas aeruginosa PAO1
+pae03060	Protein export - Pseudomonas aeruginosa PAO1
+pae04122	Sulfur relay system - Pseudomonas aeruginosa PAO1
+pae03018	RNA degradation - Pseudomonas aeruginosa PAO1
+pae03030	DNA replication - Pseudomonas aeruginosa PAO1
+pae03410	Base excision repair - Pseudomonas aeruginosa PAO1
+pae03420	Nucleotide excision repair - Pseudomonas aeruginosa PAO1
+pae03430	Mismatch repair - Pseudomonas aeruginosa PAO1
+pae03440	Homologous recombination - Pseudomonas aeruginosa PAO1
+pae03450	Non-homologous end-joining - Pseudomonas aeruginosa PAO1
+pae03250	Viral life cycle - HIV-1 - Pseudomonas aeruginosa PAO1
+pae02010	ABC transporters - Pseudomonas aeruginosa PAO1
+pae02060	Phosphotransferase system (PTS) - Pseudomonas aeruginosa PAO1
+pae03070	Bacterial secretion system - Pseudomonas aeruginosa PAO1
+pae02020	Two-component system - Pseudomonas aeruginosa PAO1
+pae04146	Peroxisome - Pseudomonas aeruginosa PAO1
+pae04148	Efferocytosis - Pseudomonas aeruginosa PAO1
+pae04156	Integrated stress response (ISR) signaling pathway - Pseudomonas aeruginosa PAO1
+pae02024	Quorum sensing - Pseudomonas aeruginosa PAO1
+pae02025	Biofilm formation - Pseudomonas aeruginosa - Pseudomonas aeruginosa PAO1
+pae02030	Bacterial chemotaxis - Pseudomonas aeruginosa PAO1
+pae02040	Flagellar assembly - Pseudomonas aeruginosa PAO1
+pae04981	Folate transport and metabolism - Pseudomonas aeruginosa PAO1
+pae04980	Cobalamin transport and metabolism - Pseudomonas aeruginosa PAO1
+pae01501	beta-Lactam resistance - Pseudomonas aeruginosa PAO1
+pae01502	Vancomycin resistance - Pseudomonas aeruginosa PAO1
+pae01503	Cationic antimicrobial peptide (CAMP) resistance - Pseudomonas aeruginosa PAO1
